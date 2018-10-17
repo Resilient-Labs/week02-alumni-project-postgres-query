@@ -6,8 +6,8 @@
 
 At least 20 students in your database. The query should return all students who graduated, live in Boston, and are under 30 in ascending order based on id.
 
-| id    | first_name     | last_name   | cohort | grad status | age | city | state | neighborhood
-| ---------|:-------------:|:-------------:| :------:| :------:| :------:| :------:| :------:|
+| id    | first_name     | last_name   | cohort | grad status | age | city | state | neighborhood |
+| ---------|:-------------:|:-------------:|:------:|:------:|:------:|:------:|:------:| ------:|
 |   05  | Sarah | Sanders | 2017a | graduated | 22 | Boston | MA | JP |
 |   11  | Jamal | Wehadababyitsaboy | 2017b | graduated | 23 | Boston | MA | Roxbury |
 |   13  | Queen | Elizabeth | 2018a | graduated | 29 | Boston | MA | Dorchester |
